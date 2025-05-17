@@ -1,0 +1,104 @@
+nombre,categoria,prioridad,descripcion,fecha,estado
+juan,agua,Media,"hay una fuga de agua en el baño principal",2025-05-16 10:00:00,Pendiente
+maria,electricidad,Alta,"se fue la luz en todo el edificio",2025-05-16 10:05:00,Pendiente
+luis,seguridad,Alta,"alguien intentó forzar la puerta de entrada",2025-05-16 10:10:00,Pendiente
+ana,limpieza,Baja,"hay basura acumulada en el pasillo del tercer piso",2025-05-16 10:15:00,Pendiente
+carlos,ruido,Baja,"la música está muy alta en el apartamento 204",2025-05-16 10:20:00,Pendiente
+sofia,agua,Media,"el fregadero de la cocina está goteando",2025-05-16 10:25:00,Pendiente
+pedro,electricidad,Alta,"hay un cortocircuito en el tablero eléctrico",2025-05-16 10:30:00,Pendiente
+lucia,seguridad,Alta,"se reporta un robo en el estacionamiento",2025-05-16 10:35:00,Pendiente
+jorge,limpieza,Baja,"los residuos no fueron recogidos hoy",2025-05-16 10:40:00,Pendiente
+elena,ruido,Baja,"fiesta con mucho ruido en el piso 5",2025-05-16 10:45:00,Pendiente
+raul,agua,Media,"humedad en la pared del dormitorio",2025-05-16 10:50:00,Pendiente
+patricia,electricidad,Alta,"falla eléctrica en el ascensor",2025-05-16 10:55:00,Pendiente
+fernando,seguridad,Alta,"vandalismo en el parqueadero",2025-05-16 11:00:00,Pendiente
+isabel,limpieza,Baja,"suciedad en la entrada principal",2025-05-16 11:05:00,Pendiente
+martin,ruido,Baja,"estruendo constante por reparaciones",2025-05-16 11:10:00,Pendiente
+rosa,agua,Media,"desborde en el tanque de agua",2025-05-16 11:15:00,Pendiente
+andres,electricidad,Alta,"apagón en la torre B",2025-05-16 11:20:00,Pendiente
+valeria,seguridad,Alta,"intrusión detectada en la azotea",2025-05-16 11:25:00,Pendiente
+sergio,limpieza,Baja,"desorden en el área de juegos",2025-05-16 11:30:00,Pendiente
+paula,ruido,Baja,"bulla de niños en el patio",2025-05-16 11:35:00,Pendiente
+adrian,agua,Media,"filtración en el techo del baño",2025-05-16 11:40:00,Pendiente
+marina,electricidad,Alta,"cable suelto en el pasillo",2025-05-16 11:45:00,Pendiente
+ricardo,seguridad,Alta,"asalto reportado en la entrada",2025-05-16 11:50:00,Pendiente
+natalia,limpieza,Baja,"residuos de comida en la escalera",2025-05-16 11:55:00,Pendiente
+hugo,ruido,Baja,"clamor por manifestación afuera",2025-05-16 12:00:00,Pendiente
+laura,agua,Media,"derrame de agua en el sótano",2025-05-16 12:05:00,Pendiente
+victor,electricidad,Alta,"sobrecarga en el sistema eléctrico",2025-05-16 12:10:00,Pendiente
+monica,seguridad,Alta,"allanamiento en el departamento 101",2025-05-16 12:15:00,Pendiente
+ramon,limpieza,Baja,"desecho de muebles en el pasillo",2025-05-16 12:20:00,Pendiente
+ines,ruido,Baja,"ruido de maquinaria en la calle",2025-05-16 12:25:00,Pendiente
+oscar,agua,Media,"fuga en la tubería principal",2025-05-16 12:30:00,Pendiente
+susana,electricidad,Alta,"corte de luz inesperado",2025-05-16 12:35:00,Pendiente
+marco,seguridad,Alta,"violación de propiedad privada",2025-05-16 12:40:00,Pendiente
+alicia,limpieza,Baja,"limpieza deficiente en baños comunes",2025-05-16 12:45:00,Pendiente
+pablo,ruido,Baja,"música fuerte en la piscina",2025-05-16 12:50:00,Pendiente
+camila,agua,Media,"goteo constante en la cocina",2025-05-16 12:55:00,Pendiente
+daniel,electricidad,Alta,"falla eléctrica en luces exteriores",2025-05-16 13:00:00,Pendiente
+marta,seguridad,Alta,"vandalismo en el ascensor",2025-05-16 13:05:00,Pendiente
+federico,limpieza,Baja,"basura en el parque infantil",2025-05-16 13:10:00,Pendiente
+carolina,ruido,Baja,"estruendo por obras cercanas",2025-05-16 13:15:00,Pendiente
+alejandro,agua,Media,"desborde de lavamanos",2025-05-16 13:20:00,Pendiente
+rebeca,electricidad,Alta,"cortocircuito en el cuarto de máquinas",2025-05-16 13:25:00,Pendiente
+javier,seguridad,Alta,"robo de bicicleta en el sótano",2025-05-16 13:30:00,Pendiente
+patricio,limpieza,Baja,"residuos plásticos en el jardín",2025-05-16 13:35:00,Pendiente
+melina,ruido,Baja,"bulla por evento deportivo",2025-05-16 13:40:00,Pendiente
+esteban,agua,Media,"filtración en la ventana",2025-05-16 13:45:00,Pendiente
+flor,electricidad,Alta,"apagón parcial en el edificio",2025-05-16 13:50:00,Pendiente
+rodrigo,seguridad,Alta,"asalto en la entrada principal",2025-05-16 13:55:00,Pendiente
+gabriela,limpieza,Baja,"suciedad en el ascensor",2025-05-16 14:00:00,Pendiente
+matias,ruido,Baja,"fiesta infantil con mucho ruido",2025-05-16 14:05:00,Pendiente
+nombre,categoria,prioridad,descripcion,fecha,estado
+antonio,seguridad,Alta,"se detectó humo en el pasillo del segundo piso",2025-05-16 14:10:00,Pendiente
+beatriz,agua,Media,"goteo de agua en el techo del estacionamiento",2025-05-16 14:15:00,Pendiente
+carmen,limpieza,Baja,"olor desagradable en el cuarto de basura",2025-05-16 14:20:00,Pendiente
+diego,ruido,Baja,"ruido de taladro durante la madrugada",2025-05-16 14:25:00,Pendiente
+elisa,electricidad,Alta,"chispa en el enchufe de la cocina",2025-05-16 14:30:00,Pendiente
+francisco,seguridad,Alta,"bloqueo de la salida de emergencia",2025-05-16 14:35:00,Pendiente
+gisela,agua,Media,"inundación en el sótano por lluvias",2025-05-16 14:40:00,Pendiente
+hector,limpieza,Baja,"residuos de construcción en la entrada",2025-05-16 14:45:00,Pendiente
+irene,ruido,Baja,"alarma de auto sonando por horas",2025-05-16 14:50:00,Pendiente
+julio,electricidad,Alta,"falla en el generador de emergencia",2025-05-16 14:55:00,Pendiente
+karla,seguridad,Alta,"fuego en el cuarto de medidores",2025-05-16 15:00:00,Pendiente
+leonardo,agua,Media,"agua estancada en el jardín",2025-05-16 15:05:00,Pendiente
+marcela,limpieza,Baja,"malos olores en el elevador",2025-05-16 15:10:00,Pendiente
+nicolas,ruido,Baja,"bocina de camión molestando en la madrugada",2025-05-16 15:15:00,Pendiente
+olga,electricidad,Alta,"apagón en áreas comunes",2025-05-16 15:20:00,Pendiente
+pilar,seguridad,Alta,"puerta de acceso bloqueada por objetos",2025-05-16 15:25:00,Pendiente
+quique,agua,Media,"fuga en la cisterna",2025-05-16 15:30:00,Pendiente
+raquel,limpieza,Baja,"restos de comida en el parque",2025-05-16 15:35:00,Pendiente
+samuel,ruido,Baja,"gritos constantes en el pasillo",2025-05-16 15:40:00,Pendiente
+tamara,electricidad,Alta,"cableado expuesto en la azotea",2025-05-16 15:45:00,Pendiente
+ulises,seguridad,Alta,"humo saliendo del cuarto de calderas",2025-05-16 15:50:00,Pendiente
+veronica,agua,Media,"charco de agua en el lobby",2025-05-16 15:55:00,Pendiente
+walter,limpieza,Baja,"olor a humedad en el sótano",2025-05-16 16:00:00,Pendiente
+ximena,ruido,Baja,"petardos explotando cerca del edificio",2025-05-16 16:05:00,Pendiente
+yolanda,electricidad,Alta,"falla en el sistema de intercomunicación",2025-05-16 16:10:00,Pendiente
+zulema,seguridad,Alta,"bloqueo de acceso por vehículo mal estacionado",2025-05-16 16:15:00,Pendiente
+alberto,agua,Media,"presión baja en el suministro de agua",2025-05-16 16:20:00,Pendiente
+berta,limpieza,Baja,"manchas de humedad en paredes comunes",2025-05-16 16:25:00,Pendiente
+cristian,ruido,Baja,"ensayo de banda musical en el sótano",2025-05-16 16:30:00,Pendiente
+delfina,electricidad,Alta,"luces parpadeando en pasillos",2025-05-16 16:35:00,Pendiente
+enrique,seguridad,Alta,"fuego en el basurero exterior",2025-05-16 16:40:00,Pendiente
+fabiana,agua,Media,"goteo en la llave del jardín",2025-05-16 16:45:00,Pendiente
+gabriel,limpieza,Baja,"residuos de poda en la banqueta",2025-05-16 16:50:00,Pendiente
+hilda,ruido,Baja,"alarma de incendio activada sin motivo",2025-05-16 16:55:00,Pendiente
+ivan,electricidad,Alta,"cortocircuito en el portón eléctrico",2025-05-16 17:00:00,Pendiente
+josefa,seguridad,Alta,"humo en el ducto de ventilación",2025-05-16 17:05:00,Pendiente
+kevin,agua,Media,"agua con mal olor en la cocina",2025-05-16 17:10:00,Pendiente
+lola,limpieza,Baja,"restos de pintura en el piso del lobby",2025-05-16 17:15:00,Pendiente
+marco,ruido,Baja,"ruido de martillo en la azotea",2025-05-16 17:20:00,Pendiente
+nuria,electricidad,Alta,"falla en el timbre principal",2025-05-16 17:25:00,Pendiente
+osvaldo,seguridad,Alta,"puerta de emergencia bloqueada",2025-05-16 17:30:00,Pendiente
+pamela,agua,Media,"inundación por tubería rota",2025-05-16 17:35:00,Pendiente
+quintin,limpieza,Baja,"olor a basura en el estacionamiento",2025-05-16 17:40:00,Pendiente
+rosa,ruido,Baja,"bocina de auto molestando en la noche",2025-05-16 17:45:00,Pendiente
+santiago,electricidad,Alta,"falla en el sistema de cámaras",2025-05-16 17:50:00,Pendiente
+tania,seguridad,Alta,"fuego en el área de juegos",2025-05-16 17:55:00,Pendiente
+ursula,agua,Media,"agua acumulada en la terraza",2025-05-16 18:00:00,Pendiente
+victoria,limpieza,Baja,"residuos de cartón en el pasillo",2025-05-16 18:05:00,Pendiente
+wilson,ruido,Baja,"ruido de motor en la madrugada",2025-05-16 18:10:00,Pendiente
+xavier,electricidad,Alta,"apagón en el estacionamiento",2025-05-16 18:15:00,Pendiente
+yanina,seguridad,Alta,"humo en la escalera de emergencia",2025-05-16 18:20:00,Pendiente
+zara,agua,Media,"fuga de agua en el área de lavandería",2025-05-16 18:25:00,Pendiente
